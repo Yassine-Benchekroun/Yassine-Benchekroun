@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
+**AI Engineering Student** — Intelligent Systems & Data-Driven Applications
 
-<!--
-**Yassine-Benchekroun/Yassine-Benchekroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year AI Engineering student with **strong foundations in supervised machine learning** and a growing interest in building complete applications—from databases to user interfaces. I enjoy creating practical solutions like intelligent parking systems, data-driven applications, and interactive software projects.
 
-Here are some ideas to get you started:
+**Skills:**  
+- **Machine Learning:** Supervised Learning, Data Scraping, Data Cleaning  
+- **Programming:** Python, C++, Java, MATLAB, R  
+- **Hardware & Embedded Systems:** Arduino, Arduino R3  
+- **GUI & Game Development:** SFML  
+- **Web & App Development:** HTML, CSS, JavaScript (learning to integrate ML with full apps)  
+- **Database & Cloud:** Firebase, SQL, NoSQL, SQL/PL-SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**For detailed project information, technical documentation, and contact details, visit my portfolio website:**  
+[yassine-benchekroun.github.io](https://yassine-benchekroun.github.io/)

@@ -1,7 +1,7 @@
 # About Me 👨‍💻
 ### AI Engineering Student — Intelligent Systems & Software Engenner 🧠
 
-First-year AI Engineering student with strong foundations in supervised machine learning and a growing interest in building complete applications from databases to user interfaces. I enjoy creating practical solutions like intelligent parking systems and interactive software projects.
+Third-year AI Engineering student with strong foundations in supervised machine learning and a growing interest in building complete applications from databases to user interfaces. I enjoy creating practical solutions like intelligent parking systems and interactive software projects.
 
 ### 🛠 Skills
 

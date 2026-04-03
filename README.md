@@ -6,6 +6,7 @@ Third-year AI Engineering student with strong foundations in supervised machine 
 ### 🛠 Skills
 
 * **Machine Learning:** Supervised & Unsupervised Learning, Data Scraping, Data Cleaning
+* **Deep Learning:** Neurol Networks
 * **Programming:** Python, C++, Java, MATLAB, R
 * **Hardware & Embedded:** Arduino
 * **GUI & Game Dev:** SFML
